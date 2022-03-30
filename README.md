@@ -1,3 +1,3 @@
-**Simple tic-tac-toe game **
+Simple tic-tac-toe game 
 
 https://maktictactoe.netlify.app/
